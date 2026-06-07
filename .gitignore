@@ -3,4 +3,3 @@
 venv/
 .env
 streamlit/
-.gitignore
