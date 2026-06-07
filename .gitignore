@@ -1,0 +1,5 @@
+# ignore the virtual environment directory, .env and secret files
+
+venv/
+.env
+streamlit/
