@@ -21,7 +21,6 @@
 
 **CareerPilot AI** is a personalized AI career roadmap bot built specifically for Pakistani students. It guides students through 8 different AI domains and generates a complete, personalized career roadmap based on their education, skills, and goals.
 
-> Built as the **Phase 01 Final Project** of a 14-phase AI Engineering roadmap.
 
 ---
 
