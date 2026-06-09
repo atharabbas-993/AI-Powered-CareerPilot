@@ -41,7 +41,7 @@
 
 | Technique | Purpose |
 |---|---|
-| Role Prompting | Ustad Tariq — Expert Pakistani Career Counselor |
+| Role Prompting | Ustad X — Expert Pakistani Career Counselor |
 | Chain of Thought | Step by step career analysis |
 | ReAct Prompting | Thought → Action → Observation flow |
 | Self Consistency | Asks LLM 3 times for reliable answers |
