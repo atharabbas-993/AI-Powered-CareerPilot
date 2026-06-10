@@ -1,6 +1,4 @@
 # app.py
-# Pakistan AI Career Roadmap Bot
-# Interactive Streamlit Application — Dark Blue/Red Theme
 
 import streamlit as st
 from groq import Groq
