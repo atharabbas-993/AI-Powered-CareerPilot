@@ -1,5 +1,4 @@
 # Dockerfile
-# Pakistan AI Career Roadmap Bot
 
 # Base image
 FROM python:3.10-slim
