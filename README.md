@@ -11,7 +11,7 @@
 
 **An AI-powered career counselor for Pakistani students who want to enter the Artificial Intelligence field.**
 
-[🚀 Live Demo](https://huggingface.co/spaces/AtharAbbas993/CareerPilot-AI))
+[🚀 Live Demo](https://huggingface.co/spaces/AtharAbbas993/CareerPilot-AI)
 
 </div>
 
