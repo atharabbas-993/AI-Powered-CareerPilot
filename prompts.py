@@ -1,5 +1,4 @@
-# prompts.py
-# Pakistan AI Career Roadmap Bot
+
 # All Prompt Templates and System Prompts
 
 # =====================================
