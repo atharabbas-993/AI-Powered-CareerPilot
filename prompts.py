@@ -1,6 +1,3 @@
-
-# All Prompt Templates and System Prompts
-
 # =====================================
 # MAIN SYSTEM PROMPT
 # Uses: Role Prompting, Negative Prompting,
